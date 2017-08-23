@@ -1,1 +1,2 @@
-# Day 3 Tutorial: Getting started with Spring, controllers and views. 
+# Day 3 Tutorial: My First Website
+## A Getting started guide to Spring, controllers and views. 
