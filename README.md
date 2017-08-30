@@ -1,2 +1,3 @@
 # Day 3 Tutorial: My First Website
-## A Getting started guide to Spring, controllers and views. 
+## Code examples from teaching
+Tuesday 29 August 2017
